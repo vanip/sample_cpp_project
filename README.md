@@ -7,6 +7,4 @@ to build this project is
 
 > ./autogen.sh
 
-> ./configure
-
 > make
